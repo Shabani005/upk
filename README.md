@@ -65,4 +65,4 @@ MIT
 
 **Note:**  
 - You may need to run the binary as root or with `sudo` depending on your system and package manager.
-- If you encounter issues, please open an issue on the [GitHub repository](https://github.com/yourusername/yourrepo).
+- If you encounter issues, please open an issue on the [GitHub repository](https://github.com/Shabani005/upk).
