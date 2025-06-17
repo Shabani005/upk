@@ -10,7 +10,7 @@
 
 ## Usage
 
-1. **Download** the latest release from [GitHub Releases](https://github.com/yourusername/yourrepo/releases).
+1. **Download** the latest release from [GitHub Releases](https://github.com/Shabani005/upk/releases).
 2. **Run** the binary:
 
    ```sh
