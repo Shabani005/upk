@@ -9,7 +9,7 @@ proc isExecutable(path: string): bool =
   else:
     return fileExists(path)
 
-proc which*(cmd: string): string =  # <--- Note the asterisk!
+proc which*(cmd: string): string = 
   let pathEnv = getEnv("PATH")
   let paths = pathEnv.split(PathSep)
   when defined(windows):
